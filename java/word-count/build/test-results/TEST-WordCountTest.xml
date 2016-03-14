@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordCountTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2015-11-06T23:05:42" hostname="Brittanys-MBP" time="0.021">
+  <properties/>
+  <testcase name="countMultipleOccurences" classname="WordCountTest" time="0.012"/>
+  <testcase name="ignorePunctuation" classname="WordCountTest" time="0.001"/>
+  <testcase name="includeNumbers" classname="WordCountTest" time="0.001"/>
+  <testcase name="normalizeCase" classname="WordCountTest" time="0.003"/>
+  <testcase name="countOneOfEach" classname="WordCountTest" time="0.001"/>
+  <testcase name="countOneWord" classname="WordCountTest" time="0.001"/>
+  <system-out><![CDATA[one fish two fish red fish blue fish
+one
+fish
+two
+fish
+red
+fish
+blue
+fish
+car  carpet as java  javascript
+car
+
+carpet
+as
+java
+
+javascript
+testing 1 2 testing
+testing
+1
+2
+testing
+go go go
+go
+go
+go
+one of each
+one
+of
+each
+word
+word
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
