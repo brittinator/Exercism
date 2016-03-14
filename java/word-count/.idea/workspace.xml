@@ -36,7 +36,7 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.259259">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="7" selection-start-line="7" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
@@ -47,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/WordCountTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -56,9 +56,11 @@
       <file leaf-file-name="WordCount.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/WordCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.23950617">
+              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+              <folding>
+                <element signature="e#166#183#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -343,8 +345,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -445,7 +448,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -790,9 +792,9 @@
     <recent_temporary>
       <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Gradle.WordCountTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.WordCountTest.countMultipleOccurences" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.WordCountTest.countOneOfEach" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.WordCountTest.countOneWord" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.WordCountTest.countOneWord" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.WordCountTest.countMultipleOccurences" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.WordCountTest.countOneOfEach" />
       </list>
     </recent_temporary>
   </component>
@@ -810,32 +812,32 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WordCountTest - 2015.11.04 at 17h 21m 18s.xml">
+    <history-entry file="WordCountTest - 2016.03.13 at 19h 28m 19s.xml">
       <configuration name="WordCountTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WordCountTest - 2015.11.06 at 14h 58m 17s.xml">
+    <history-entry file="WordCountTest - 2016.03.13 at 19h 33m 02s.xml">
       <configuration name="WordCountTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WordCountTest - 2015.11.06 at 15h 00m 21s.xml">
+    <history-entry file="WordCountTest - 2016.03.13 at 19h 52m 19s.xml">
       <configuration name="WordCountTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WordCountTest - 2015.11.06 at 15h 01m 32s.xml">
+    <history-entry file="WordCountTest - 2016.03.13 at 19h 52m 26s.xml">
       <configuration name="WordCountTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WordCountTest - 2015.11.06 at 15h 05m 43s.xml">
+    <history-entry file="WordCountTest - 2016.03.13 at 19h 54m 01s.xml">
       <configuration name="WordCountTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WordCountTest_countMultipleOccurences - 2015.11.06 at 14h 30m 11s.xml">
-      <configuration name="WordCountTest.countMultipleOccurences" configurationId="JUnit" />
+    <history-entry file="WordCountTest - 2016.03.13 at 19h 57m 51s.xml">
+      <configuration name="WordCountTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WordCountTest_countMultipleOccurences - 2015.11.06 at 14h 37m 39s.xml">
-      <configuration name="WordCountTest.countMultipleOccurences" configurationId="JUnit" />
+    <history-entry file="WordCountTest - 2016.03.13 at 20h 25m 22s.xml">
+      <configuration name="WordCountTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WordCountTest_countMultipleOccurences - 2015.11.06 at 14h 39m 30s.xml">
-      <configuration name="WordCountTest.countMultipleOccurences" configurationId="JUnit" />
+    <history-entry file="WordCountTest - 2016.03.13 at 20h 29m 53s.xml">
+      <configuration name="WordCountTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WordCountTest_countOneOfEach - 2015.11.06 at 14h 29m 50s.xml">
-      <configuration name="WordCountTest.countOneOfEach" configurationId="JUnit" />
+    <history-entry file="WordCountTest - 2016.03.13 at 20h 30m 25s.xml">
+      <configuration name="WordCountTest" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="WordCountTest_countOneWord - 2015.11.06 at 14h 29m 34s.xml">
       <configuration name="WordCountTest.countOneWord" configurationId="JUnit" />
@@ -847,12 +849,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17613636" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3849432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17557861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -895,6 +897,32 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="7" selection-start-line="7" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WordCountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#166#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -912,7 +940,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#166#183#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -920,7 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,6 +968,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.022189349">
           <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="7" selection-start-line="7" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -946,24 +982,18 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/WordCountTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.259259">
-          <caret line="10" column="7" selection-start-line="7" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/WordCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.23950617">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="e#166#183#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

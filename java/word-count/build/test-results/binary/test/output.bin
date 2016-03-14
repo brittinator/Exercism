@@ -1,32 +1,6 @@
-%one fish two fish red fish blue fish
-one
-fish
-two
-fish
-red
-fish
-blue
-fish
- car  carpet as java  javascript
-car
-
-carpet
-as
-java
-
-javascript
-testing 1 2 testing
-testing
-1
-2
-testing
-	go go go
-go
-go
-go
-one of each
-one
-of
-each
-word
-word
+{one=1, of=1, each=1}
+&{red=1, blue=1, one=1, fish=4, two=1}
+.{as=1, java=1, car=1, carpet=1, javascript=1}
+{1=1, 2=1, testing=2}
+{go=3}
+	{word=1}
