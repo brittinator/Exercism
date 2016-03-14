@@ -7,3 +7,6 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * Hamming
 * Word Count
 * Anagram
+* Bob
+* Robot Name
+* Hello World
