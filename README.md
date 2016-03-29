@@ -11,5 +11,10 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * Robot Name
 * Hello World
 * Pangram
+* Meetup
 
 ## Ruby Exercises Completed:
+1. Hello World
+* Hamming
+* Gigasecond
+* RNA transcription
