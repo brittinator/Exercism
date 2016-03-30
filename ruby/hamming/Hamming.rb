@@ -3,8 +3,6 @@ class Hamming
   def self.compute(strandA, strandB)
     return 0 if strandA == strandB
     raise ArgumentError, "Strand lengths must be the same." if strandA.length != strandB.length
-
-    diff = 0
     (0..strandA.length).count do |i|
       strandA[i] != strandB[i]
     end
