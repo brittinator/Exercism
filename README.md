@@ -6,6 +6,7 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * Leap
 * Clock
 * Gigasecond
+* Hamming
 
 ## Java Exercises Completed:
 1. ETL
