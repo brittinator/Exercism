@@ -7,6 +7,11 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * Clock
 * Gigasecond
 * Hamming
+* Pangram
+* Acronym
+* Raindrops
+* Bob
+* Triangle
 
 ## Java Exercises Completed:
 1. ETL
