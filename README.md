@@ -12,6 +12,8 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * Raindrops
 * Bob
 * Triangle
+* Twelve-Days
+* Difference of Squares
 
 ## Java Exercises Completed:
 1. ETL
