@@ -14,6 +14,8 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * Triangle
 * Twelve-Days
 * Difference of Squares
+* Accumulate
+* House
 
 ## Java Exercises Completed:
 1. ETL
