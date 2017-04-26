@@ -2,7 +2,7 @@
 These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to help you learn a new language.
 
 ## Go Exercises Completed:
-1. Hello World
+* Hello World
 * Leap
 * Clock
 * Gigasecond
@@ -18,7 +18,7 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * House
 
 ## Java Exercises Completed:
-1. ETL
+* ETL
 * Nucleotide Count
 * Hamming
 * Word Count
@@ -30,7 +30,7 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * Meetup
 
 ## Ruby Exercises Completed:
-1. Hello World
+* Hello World
 * Hamming
 * Gigasecond
 * RNA transcription
