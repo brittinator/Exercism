@@ -16,6 +16,9 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * Difference of Squares
 * Accumulate
 * House
+* Pascals Triangle
+* Series
+* Secret Handshake
 
 ## Java Exercises Completed:
 * ETL
