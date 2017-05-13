@@ -19,6 +19,10 @@ These are parts of [Exercism](http://exercism.io/) Exercises. These are meant to
 * Pascals Triangle
 * Series
 * Secret Handshake
+* ETL
+* Grains
+* Queen-Attack
+* Scrabble-Score
 
 ## Java Exercises Completed:
 * ETL
