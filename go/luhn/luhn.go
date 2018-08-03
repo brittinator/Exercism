@@ -9,27 +9,22 @@ import (
 
 // Valid uses the Luhn formula to determine if a number is valid.
 func Valid(input string) bool {
-	// len 1 or 0 invalid
-	if len(input) <= 1 {
-		return false
-	}
-	// trims leading & trailing spaces
 	var scrubbedInput []int64
 	// strip spaces
 	for _, r := range input {
 		if unicode.IsSpace(r) {
 			continue
 		}
-		// make sure all digits
-		if unicode.IsDigit(r) {
-			num, err := strconv.Atoi(string(r))
-			if err != nil {
-				log.Fatal("error converting", err)
-			}
-			scrubbedInput = append(scrubbedInput, int64(num))
-		} else {
+
+		if !unicode.IsDigit(r) {
 			return false
 		}
+
+		num, err := strconv.Atoi(string(r))
+		if err != nil {
+			log.Fatal("error converting", err)
+		}
+		scrubbedInput = append(scrubbedInput, int64(num))
 	}
 	// len 1 or 0 invalid
 	if len(scrubbedInput) <= 1 {
@@ -40,26 +35,26 @@ func Valid(input string) bool {
 
 	// double every 2nd starting @ back
 	for i := len(scrubbedInput) - 2; i >= 0; i = i - 2 {
-		// if result > 9, minus 9
-		num := scrubbedInput[i]
-		num = num * 2
-		if num > 9 {
-			num = num - 9
-		}
-		fmt.Printf("i is : %v, scrubbed: %v, num: %v\n", i, scrubbedInput[i], num)
-		scrubbedInput[i] = num
+		scrubbedInput[i] = double(scrubbedInput[i])
 	}
 	var sum int64
-	// sum everything
 	for _, num := range scrubbedInput {
 		sum += num
 	}
 
 	if sum%10 == 0 {
-		// if divide 10 true
+		// true if divide 10 remainder zero
 		return true
 	}
-	// mod 10
-
 	return false
+}
+
+// double is a special doubling function, see README for more details.
+func double(n int64) int64 {
+	// if result > 9, minus 9
+	n = n * 2
+	if n > 9 {
+		n = n - 9
+	}
+	return n
 }
